@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sergio @sereogga
-- 👀 I’m interested in Web Development (full)
+- 👋 Hi, I’m Sergio
+- 👀 I’m interested in Web Development
 - 🙌 Finished Le Wagon Bootcamp (full-stack)
 - 🌱 I’m currently learning React/React Native
 
